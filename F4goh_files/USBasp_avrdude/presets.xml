@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPreset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Preset>
+    <programmer>usbasp</programmer>
+    <mcu>t85</mcu>
+    <port>usb</port>
+    <baud />
+    <bitclock>0.5</bitclock>
+    <flashFile>E:\usbasp\micronucleus-master\micronucleus-master\firmware\releases\t85_default.hex</flashFile>
+    <flashFormat>a</flashFormat>
+    <flashOp>w</flashOp>
+    <EEPROMFile />
+    <EEPROMFormat>a</EEPROMFormat>
+    <EEPROMOp>w</EEPROMOp>
+    <force>false</force>
+    <disableVerify>false</disableVerify>
+    <disableFlashErase>false</disableFlashErase>
+    <eraseFlashAndEEPROM>true</eraseFlashAndEEPROM>
+    <doNotWrite>false</doNotWrite>
+    <lfuse>0xE1</lfuse>
+    <hfuse>0XDD</hfuse>
+    <efuse>0XFE</efuse>
+    <setFuses>false</setFuses>
+    <lockBits />
+    <setLock>false</setLock>
+    <additional />
+    <verbosity>0</verbosity>
+    <name>digispark</name>
+  </Preset>
+</ArrayOfPreset>
